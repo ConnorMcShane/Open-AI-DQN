@@ -1,2 +1,16 @@
-# OpenAI-DQN
-Replication of a basic DQN reinforcement learning model used on the cart-pole OpenAI gym game.
+# Cartpole DQN
+
+This repo contains a jupyter notebook example of a simple DQN used to learn on the OpenAI cartpole game.
+
+## DQN
+
+![alt text](images/DQN.png "DQN")
+
+
+
+## Result
+
+![alt text](images/gym_animation.gif "gym_animation")
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
